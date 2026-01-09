@@ -14,4 +14,5 @@ This repository documents my journey in embedded systems.
 - ADC
 - Interrupts
 
-Projects will be added soon.
+## Projects
+- Register-level LED control using ATmega328P
