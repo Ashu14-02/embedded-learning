@@ -4,7 +4,9 @@ This repository documents my journey in embedded systems.
 
 ## Tools & Boards
 - Arduino UNO
+- Arduino Nano
 - ESP32
+- ESP8266
 - Embedded C
 
 ## Skills
